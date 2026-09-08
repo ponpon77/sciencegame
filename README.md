@@ -40,3 +40,24 @@ build, so it needs no server beyond somewhere to serve one file.
 ## Licence
 
 MIT — see [LICENSE](./LICENSE).
+
+<!-- konh-links:start -->
+
+---
+
+## More from konh
+
+| Project | | Live |
+| --- | --- | --- |
+| **[VEXCollab](https://github.com/konh77/vexcollab)** | Write VEX V5 Python together in the browser, with the robot brain connected over WebSerial | [vex.konh.org](https://vex.konh.org) |
+| **[千分の一の国](https://github.com/konh77/senbunpy)** | Japan simulated at one-thousandth scale, with a small language for writing its laws | [senbun.konh.org](https://senbun.konh.org) |
+| **[Lens & Locations](https://github.com/konh77/lens-and-location)** | A photo magazine | [lens.konh.org](https://lens.konh.org) |
+| **[Skin to Litematica](https://github.com/konh77/skin-to-litematica)** | Minecraft skins converted into buildable block sculptures | [konh.org/skin-to-litematica](https://konh.org/skin-to-litematica/) |
+| **[ManageBac MCP](https://github.com/konh77/managebac-mcp)** | An MCP server that lets AI agents read ManageBac | — |
+| **[Guardian](https://github.com/konh77/Guardian)** | A Go service — Gin HTTP server with OIDC | — |
+
+Everything else: **[github.com/konh77](https://github.com/konh77?tab=repositories)**
+
+Made by **konh** — [konh.org](https://konh.org)
+
+<!-- konh-links:end -->
